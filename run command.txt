@@ -1,0 +1,1 @@
+gcc main.c physical_layer.c application_layer.c data_link_layer.c -o test
